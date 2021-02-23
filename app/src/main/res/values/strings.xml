@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CreateGoal</string>
+    <string name="input_lable">Enter your Name</string>
+    <string name="empty">Welcome Javapapers!</string>
+    <string name="editText1">hint</string>
+    <string name="sub">sub</string>
+    <string name="title">Create New Goal</string>
+    <string name="amount">amount</string>
+    <string name="create_goal">Create Goal!</string>
+    <string name="enter_the_amount_you_aim_to_save_euros">Enter the amount you aim to save (euros):</string>
+    <string name="date">"Enter the date you want to reach this goal by: "</string>
+    <string name="date1">date</string>
+    <string name="goal">Enter the amount you want to save:</string>
+    <string name="when_do_you_want_to_reach_this_goal">When do you want to reach this goal?</string>
+    <string name="d_m_yr">d/m/yr</string>
+</resources>
